@@ -1,6 +1,6 @@
 {
   "version": "6.0.4.12",
-  "released": "2026-11-25T18:34:08Z",
+  "released": "2026-11-25T20:52:31Z",
   "base": "https://raw.githubusercontent.com/blaze0089/h4wk-eye/main/",
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "path": "H4WK EYe/BootImage.png",
-      "sha256": "d58a9c3668837683541cfba032db4078e07484e116cb2ad9a88c71d4a857c952",
-      "size": 1683578
+      "sha256": "2ba687f7a570f5b7091f2866b807eac0ac2a01b833018597656f3327592622a2",
+      "size": 1067762
     },
     {
       "path": "H4WK EYe/BootVideo.qml",
@@ -1550,8 +1550,8 @@
     },
     {
       "path": "H4WK EYe/state/HawkCredits.qml",
-      "sha256": "ba5b7780a73cdd10838c971e2ef23d522a88f83c06786f24ed79e3e33245f2b8",
-      "size": 41396
+      "sha256": "e287e903b88d4a4a655f5531748ed874cbd780468d2c0a8788ac0f2402e67179",
+      "size": 42021
     },
     {
       "path": "H4WK EYe/wallpaper_blur.png",
