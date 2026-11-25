@@ -1,0 +1,1562 @@
+{
+  "version": "6.0.4.12",
+  "released": "2026-11-25T18:34:08Z",
+  "base": "https://raw.githubusercontent.com/blaze0089/h4wk-eye/main/",
+  "files": [
+    {
+      "path": "H4WK EYe/Aquire.otf",
+      "sha256": "ae76eee2fc40dc5c62462769bbf2afd45b056cd259f5f03668e1691c98bea6ea",
+      "size": 25984
+    },
+    {
+      "path": "H4WK EYe/BootImage.png",
+      "sha256": "d58a9c3668837683541cfba032db4078e07484e116cb2ad9a88c71d4a857c952",
+      "size": 1683578
+    },
+    {
+      "path": "H4WK EYe/BootVideo.qml",
+      "sha256": "43fa10ff796fb8441030a1e8d3533d75ca53aa4828438f4726e0072893cefc04",
+      "size": 3516
+    },
+    {
+      "path": "H4WK EYe/Crescent_emblem.png",
+      "sha256": "6810a86eb34135d81ee0ea1c0f6e9b36bae40e831ab123dfe4fc62b119d76891",
+      "size": 3412
+    },
+    {
+      "path": "H4WK EYe/H4WK EYeLogo.png",
+      "sha256": "1e5632c512f8515ef2025fb0a9580a3059144ff88ac2ed629351e1732b8e4b74",
+      "size": 41911
+    },
+    {
+      "path": "H4WK EYe/H4WK_EYe.svg",
+      "sha256": "70717f80ee69047618b797efc280d2ebaf94ea4d987f2935c85a3bb27b0b1a34",
+      "size": 390524
+    },
+    {
+      "path": "H4WK EYe/VexorLogo.png",
+      "sha256": "1e5632c512f8515ef2025fb0a9580a3059144ff88ac2ed629351e1732b8e4b74",
+      "size": 41911
+    },
+    {
+      "path": "H4WK EYe/enigma/GoogleSans-Regular.ttf",
+      "sha256": "64a50283f6e4e7edbe355147e44361c115ecac2b9273f7484b1e2b697fbc2d43",
+      "size": 2030532
+    },
+    {
+      "path": "H4WK EYe/enigma/NotoSans-sub.ttf",
+      "sha256": "de77e0907165020f3976da12639cff8ced922ddcb7ff3c9f651e55fb62832e2e",
+      "size": 142300
+    },
+    {
+      "path": "H4WK EYe/enigma/NotoSansArabic-sub.ttf",
+      "sha256": "a16aca03ddb5310a33037b541e4de1224b4fca975e3f4193efea2e20d70c74eb",
+      "size": 137092
+    },
+    {
+      "path": "H4WK EYe/enigma/NotoSansBengali-sub.ttf",
+      "sha256": "54a32fc4263eb909a1a14dab00fa36274cd5cc9930d2c6727d35c9de7de3b3a8",
+      "size": 107396
+    },
+    {
+      "path": "H4WK EYe/enigma/NotoSansThai-sub.ttf",
+      "sha256": "4ff386a6cdb0ec893253488b8528a73846609a9567be7687a384608909836894",
+      "size": 29316
+    },
+    {
+      "path": "H4WK EYe/enigma/Poppins-Medium.ttf",
+      "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05",
+      "size": 158576
+    },
+    {
+      "path": "H4WK EYe/enigma/Poppins-Regular.ttf",
+      "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+      "size": 160316
+    },
+    {
+      "path": "H4WK EYe/enigma/Poppins-SemiBold.ttf",
+      "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286",
+      "size": 157312
+    },
+    {
+      "path": "H4WK EYe/icons/Advanced.svg",
+      "sha256": "195c537ff445fec0e29a6205817f2158535fbded115ff77dde7fd4e21527f6f6",
+      "size": 582
+    },
+    {
+      "path": "H4WK EYe/icons/Back.svg",
+      "sha256": "f3b79121c13b48535d4a888585625e200c00a2e29ba3165a87e8995a40ec094d",
+      "size": 566
+    },
+    {
+      "path": "H4WK EYe/icons/Check.svg",
+      "sha256": "497d601b7cc9b7f8a45bb51dd3e2005d664385068bc0f8cb4bae29038d999b57",
+      "size": 464
+    },
+    {
+      "path": "H4WK EYe/icons/ChevronLeft.svg",
+      "sha256": "fe9de872b3d95a6945bfb123ae4c1598bf1862812ba0a1cafd6d207bb58b5d20",
+      "size": 463
+    },
+    {
+      "path": "H4WK EYe/icons/ChevronRight.svg",
+      "sha256": "be74141e3ab5b85727960b6804e9287b04fb80842c51deb0004bd1a7e2792c06",
+      "size": 462
+    },
+    {
+      "path": "H4WK EYe/icons/ChevronsLeft.svg",
+      "sha256": "5cebe89790dcf2689562f4b4ae9aa3deeb2d40bfb6560a9ceb4ec27bfbae2a7d",
+      "size": 267
+    },
+    {
+      "path": "H4WK EYe/icons/ChevronsRight.svg",
+      "sha256": "5a34cc1e375e7c14c3ba67f3c53fe3559f743fa78f71a64fd790546d472482a3",
+      "size": 266
+    },
+    {
+      "path": "H4WK EYe/icons/Close.svg",
+      "sha256": "218db9a383072016ebf2a74aa7051859e80b06307ba74e608e6db172fc3ac765",
+      "size": 268
+    },
+    {
+      "path": "H4WK EYe/icons/Controls.svg",
+      "sha256": "a1c325244686d043dd2c712b39ac513470c0103bdbdcf9ccf80b69b47d2d48fe",
+      "size": 373
+    },
+    {
+      "path": "H4WK EYe/icons/Credits.svg",
+      "sha256": "5034f6eff16eb938fad42e986f3ed162ea33839ff60e85f42807abff1216d4c0",
+      "size": 585
+    },
+    {
+      "path": "H4WK EYe/icons/Devices.svg",
+      "sha256": "9cec0b61686b9bc9d4de5450572cb68d6ede80cc4bb6b872743b5cdfe91dd3a6",
+      "size": 703
+    },
+    {
+      "path": "H4WK EYe/icons/Discord.svg",
+      "sha256": "fbb9bbe5027cfe8df8431b495c014beb7f769de8f3b03758c14298fc12a64a46",
+      "size": 1379
+    },
+    {
+      "path": "H4WK EYe/icons/Display.svg",
+      "sha256": "d236e81663aa8e3c0123c200f78ca41ba04f2aba3450c5e5f0d12bc9f77820df",
+      "size": 541
+    },
+    {
+      "path": "H4WK EYe/icons/Eco.svg",
+      "sha256": "3128cc2e7eb89e3b497c1d3f8814810c5c9a7db9ee253d603db5fbec3a61f771",
+      "size": 346
+    },
+    {
+      "path": "H4WK EYe/icons/Engine.svg",
+      "sha256": "cab0b41ea9f33c4c48bdbd6d517d7374b4d3bb4d1126f3f0e39259d82a432d2c",
+      "size": 574
+    },
+    {
+      "path": "H4WK EYe/icons/Enigma.svg",
+      "sha256": "8332a4d6c153ee9b9fb48e60d6b48f8cf6d5f55ebe45c632aa2c67ddd9ac644f",
+      "size": 618
+    },
+    {
+      "path": "H4WK EYe/icons/Eye.svg",
+      "sha256": "f1ba7274d573c5722fbf52a43a2cbdd21bf81d12da05f78016afc2212e2b1643",
+      "size": 281
+    },
+    {
+      "path": "H4WK EYe/icons/Features.svg",
+      "sha256": "dc6cc77bf0c4cd712ecfe048b74e5d226177b68e2eabd3485c92fc524b513556",
+      "size": 457
+    },
+    {
+      "path": "H4WK EYe/icons/Fullscreen.svg",
+      "sha256": "fc71fa34f258639e24ffc158a70ae76a363f5799b10ca4db30554e1a64f45aa9",
+      "size": 296
+    },
+    {
+      "path": "H4WK EYe/icons/Game.svg",
+      "sha256": "ca7315e3f440eca7df71912f2b24ffc5b66dd2efe3ce9e2871fe539ae7f393e7",
+      "size": 581
+    },
+    {
+      "path": "H4WK EYe/icons/Gamepad.svg",
+      "sha256": "df77376f1ce580c2456cb42952f04d0693ae52dd164a24a6474fbd36b5433a2d",
+      "size": 909
+    },
+    {
+      "path": "H4WK EYe/icons/Graphics.svg",
+      "sha256": "2d2ca09b9ef5b550d1d93fbb2aa867fdca548162f8301febb1adf4ddd176883a",
+      "size": 612
+    },
+    {
+      "path": "H4WK EYe/icons/Help.svg",
+      "sha256": "bf3d26306f9b547f5cf8409c76fc6679b0e2bbca24858cddefc07f22178e42c2",
+      "size": 592
+    },
+    {
+      "path": "H4WK EYe/icons/Home.svg",
+      "sha256": "b36ae3fcb5e7bde9c7f17e3643164f2e83b349e7bd3a5f75dc5e1657970aea61",
+      "size": 437
+    },
+    {
+      "path": "H4WK EYe/icons/Info.svg",
+      "sha256": "fb289deee480cece4e1634c1ac8512a7e917388690e92bdb4b491df02d415273",
+      "size": 565
+    },
+    {
+      "path": "H4WK EYe/icons/Inject.svg",
+      "sha256": "2e086acaa79e572ccbae8ea4d92940cb6c9a4c0d24daf2ecf5877dc6b5e3c4bc",
+      "size": 727
+    },
+    {
+      "path": "H4WK EYe/icons/Install.svg",
+      "sha256": "621843ed9329f8953eb1af83da05b8aa978ba927828a6019cd1279db3381faa7",
+      "size": 326
+    },
+    {
+      "path": "H4WK EYe/icons/Language.svg",
+      "sha256": "c0e3a7cb16fb0fd3c133b55fb4e3443cbd426e9feb7fb3304a2a7bf0d7ba6ad1",
+      "size": 990
+    },
+    {
+      "path": "H4WK EYe/icons/Location.svg",
+      "sha256": "daeda670e1f8b0f1c415876be1e1a5dc82acb2e2913beee50e5354edccf208d0",
+      "size": 597
+    },
+    {
+      "path": "H4WK EYe/icons/Macro.svg",
+      "sha256": "f4e5f4702c88f557276927c33eabce3bb24f46176b5176c9f81ca3e03a106a11",
+      "size": 344
+    },
+    {
+      "path": "H4WK EYe/icons/Maximize.svg",
+      "sha256": "524b85c27aa3dbcda908968304996424a22bc624d6dcbbcbcb410664ed63ad01",
+      "size": 239
+    },
+    {
+      "path": "H4WK EYe/icons/Media.svg",
+      "sha256": "d5a7cd8854eff8dcab6429f394619af31274c127461299c6c45ae4f5362106d9",
+      "size": 544
+    },
+    {
+      "path": "H4WK EYe/icons/Memory.svg",
+      "sha256": "b4e0e238c48932c51bb022f5f233f35e58393d71134201f7335bf1b60dc76ccc",
+      "size": 248
+    },
+    {
+      "path": "H4WK EYe/icons/Menu.svg",
+      "sha256": "84d567ac3fede752379b5808c24e7b03da7c5a24b6a2a03c5705d8915809da06",
+      "size": 310
+    },
+    {
+      "path": "H4WK EYe/icons/Minimize.svg",
+      "sha256": "b68ea5f66c9eb025f57aed7cf3cc9132bd3eac9428c40dc76dc46238db786dd3",
+      "size": 228
+    },
+    {
+      "path": "H4WK EYe/icons/Mouse.svg",
+      "sha256": "42cb77f188910861946ccef87a478e327891e8e34b24c62183ecbc5b9f09f2da",
+      "size": 535
+    },
+    {
+      "path": "H4WK EYe/icons/Notch.svg",
+      "sha256": "b41f4ebf626f506bb35d90e08ddae44e40c095f2cbf81100df287a5570c50c34",
+      "size": 773
+    },
+    {
+      "path": "H4WK EYe/icons/Optimizations.svg",
+      "sha256": "dc6cc77bf0c4cd712ecfe048b74e5d226177b68e2eabd3485c92fc524b513556",
+      "size": 457
+    },
+    {
+      "path": "H4WK EYe/icons/Overlays.svg",
+      "sha256": "a4249c737e911c0e4e0b32a7e514412ad0c82c4388e549e2c14380e18bca8ffd",
+      "size": 844
+    },
+    {
+      "path": "H4WK EYe/icons/Panel.svg",
+      "sha256": "5021fa9f240b7247e1db8646c7df6430ff7e916f1d5062642d0f78381819840a",
+      "size": 511
+    },
+    {
+      "path": "H4WK EYe/icons/Performance.svg",
+      "sha256": "cab0b41ea9f33c4c48bdbd6d517d7374b4d3bb4d1126f3f0e39259d82a432d2c",
+      "size": 574
+    },
+    {
+      "path": "H4WK EYe/icons/Phone.svg",
+      "sha256": "a230cfc7a4cf0c6c10151d2cda73cbac7d73fafb367d60a301fab9fae780dde4",
+      "size": 726
+    },
+    {
+      "path": "H4WK EYe/icons/Plus.svg",
+      "sha256": "e768266452d67edcabff7153535a9e5505e49153e4ae84858179ed50939b7d35",
+      "size": 441
+    },
+    {
+      "path": "H4WK EYe/icons/Power.svg",
+      "sha256": "64159e05ee19963e0a28ae8989c335dc6a613142136acb087c02cc497b8f15d4",
+      "size": 549
+    },
+    {
+      "path": "H4WK EYe/icons/Preferences.svg",
+      "sha256": "f3d254ff8cd76b7385f00a73efb0d6381c136f58539c5202859161abf74793a0",
+      "size": 584
+    },
+    {
+      "path": "H4WK EYe/icons/Prefs.svg",
+      "sha256": "f3d254ff8cd76b7385f00a73efb0d6381c136f58539c5202859161abf74793a0",
+      "size": 584
+    },
+    {
+      "path": "H4WK EYe/icons/Recent.svg",
+      "sha256": "6cfe425ff978182e6a146dc6c0f5b32ab5ca72a974054fa44c1bbfafc8adc6ea",
+      "size": 725
+    },
+    {
+      "path": "H4WK EYe/icons/Record.svg",
+      "sha256": "8d9ffc67524bb46decac8e36fcef0f4ef4650720cb98b1188b575626f6c8cf0b",
+      "size": 469
+    },
+    {
+      "path": "H4WK EYe/icons/Reg.svg",
+      "sha256": "b46505dde84be6a2a0e04a18c631b28978ac4aa01b9db82b652d982a4868eba7",
+      "size": 760
+    },
+    {
+      "path": "H4WK EYe/icons/Restore.svg",
+      "sha256": "e98045bb93cdcbb43092c4f907003f48b5104a7c04f86f83f89ab1dff17de481",
+      "size": 312
+    },
+    {
+      "path": "H4WK EYe/icons/Rotate.svg",
+      "sha256": "97ac718e350152a17d26354c63a16c8b84b1bddfbe52e5132dd786f18e25dfb9",
+      "size": 278
+    },
+    {
+      "path": "H4WK EYe/icons/Screenshot.svg",
+      "sha256": "0287bc578701a64e90c5f06d2cddcabb7e6e47e99ff17f88545779cde5e97895",
+      "size": 318
+    },
+    {
+      "path": "H4WK EYe/icons/Search.svg",
+      "sha256": "b4b4c12c8cb51fb6f295d16590574e7c0d95b8035b71bcd55173ccf885890526",
+      "size": 522
+    },
+    {
+      "path": "H4WK EYe/icons/Settings.svg",
+      "sha256": "3abdf33f31a7329a8b6754314380051b8348cba289095803d206271671084139",
+      "size": 971
+    },
+    {
+      "path": "H4WK EYe/icons/Shake.svg",
+      "sha256": "c2c7192d5c1b2066ab0f70018504aed5a2b7c987342b89a2b50b0292dc24e02c",
+      "size": 327
+    },
+    {
+      "path": "H4WK EYe/icons/Shortcuts.svg",
+      "sha256": "3316e75c1c6380fef1193d0e4dcec8ecabedaa620876b1455f0719581b7aada1",
+      "size": 595
+    },
+    {
+      "path": "H4WK EYe/icons/Sync.svg",
+      "sha256": "8590a368eb4c6e9344d7601aabdbc1fad1de96ceeaf5a263afcf34c97a2ff521",
+      "size": 279
+    },
+    {
+      "path": "H4WK EYe/icons/Tools.svg",
+      "sha256": "3d792959a4c80dcf1813d69a6c76265590e4747cb9e78a64c983a70aafc87cad",
+      "size": 601
+    },
+    {
+      "path": "H4WK EYe/icons/TopbarIcon.svg",
+      "sha256": "2b24f5d305c639d92731ff354eef339da8c2830933511d54b3f7a335582d1919",
+      "size": 746
+    },
+    {
+      "path": "H4WK EYe/icons/Userdata.svg",
+      "sha256": "8e9eced1edcc15b303183f8b25425ec14ae339114656ac61b47b39c3116f88fe",
+      "size": 572
+    },
+    {
+      "path": "H4WK EYe/icons/Volume.svg",
+      "sha256": "ec53a5b740b8d86b86e010f5be810fa37a7acc814de2905a5896ac1de13f46ec",
+      "size": 334
+    },
+    {
+      "path": "H4WK EYe/icons/Wave.svg",
+      "sha256": "74af7e9bdbea97fa63bcbbf3f0e54a42448d8e064af5b5d1099ba6c44e278404",
+      "size": 64
+    },
+    {
+      "path": "H4WK EYe/icons/YouTube.svg",
+      "sha256": "f8ce7dd27a9cf61d0de5eb4c9fee24b24d98fba57f022cafc153d4ba17984e09",
+      "size": 464
+    },
+    {
+      "path": "H4WK EYe/icons/back_black.svg",
+      "sha256": "cd79dee3e7136c4807d7a28708f0e2eb1818bc4d07a349d9227552eced9fb69e",
+      "size": 446
+    },
+    {
+      "path": "H4WK EYe/icons/back_chip.svg",
+      "sha256": "cd79dee3e7136c4807d7a28708f0e2eb1818bc4d07a349d9227552eced9fb69e",
+      "size": 446
+    },
+    {
+      "path": "H4WK EYe/icons/back_chip_active.svg",
+      "sha256": "82ea9c41c38b83023cf1b88540da389cd401017cdfce329bfa9796c93a7f701a",
+      "size": 575
+    },
+    {
+      "path": "H4WK EYe/icons/back_white.svg",
+      "sha256": "14bcffa723c6068661a4c255cc9b41c23c03723512fdf50feea9b7d52bdab2e6",
+      "size": 225
+    },
+    {
+      "path": "H4WK EYe/icons/back_white_active.svg",
+      "sha256": "af6d3677b30d2d8ca26d39810db74d76dfcea519a2688b41be577aa148071c64",
+      "size": 270
+    },
+    {
+      "path": "H4WK EYe/icons/dll_injector_black.svg",
+      "sha256": "e26e85d1c90dcbf821055afd0247b307ef9be5a75b2e0ebabd2b0ad0ca733628",
+      "size": 1793
+    },
+    {
+      "path": "H4WK EYe/icons/dll_injector_white.svg",
+      "sha256": "57ed5fcccf34a2f492b83d98925cde6967872f188cc3824974245992c8bb42e8",
+      "size": 1793
+    },
+    {
+      "path": "H4WK EYe/icons/dock_files.png",
+      "sha256": "141b2bc690d6821de0116792ce5cd1edc6fcbd1010c1c788c509b5448247ae89",
+      "size": 3982
+    },
+    {
+      "path": "H4WK EYe/icons/dock_photos.png",
+      "sha256": "54501552caecbc0edad5e7babfa085a4ec471bc326f222821cafa28afb834383",
+      "size": 4770
+    },
+    {
+      "path": "H4WK EYe/icons/dock_play.png",
+      "sha256": "ee9c5b25730831926945d97af9e2e1485fa8360b838e7eb0393ec36acfb3d2e0",
+      "size": 4349
+    },
+    {
+      "path": "H4WK EYe/icons/dock_settings.png",
+      "sha256": "d28b9b14194681a9adc4c1ca676543403d43b96d1fa91dcd2a61187719c84899",
+      "size": 4169
+    },
+    {
+      "path": "H4WK EYe/icons/enigma_black.svg",
+      "sha256": "c80e9abce044c01d563b93673dde39d9a4b0416b1d499372f6390d0dd24d9b14",
+      "size": 713
+    },
+    {
+      "path": "H4WK EYe/icons/enigma_chip.svg",
+      "sha256": "9b952b655784146e23ed8437a19e18df678e4085993ab9b4aa9f720a34fbf36e",
+      "size": 511
+    },
+    {
+      "path": "H4WK EYe/icons/enigma_chip_active.svg",
+      "sha256": "86402db5ee140e42fcecbc515c1da3516fc63aa4c1503aca14051d775b693bd7",
+      "size": 604
+    },
+    {
+      "path": "H4WK EYe/icons/enigma_white.svg",
+      "sha256": "ef6753b8cc245ed0d0fd9c8ceeac17d95ea6f1ff5bfe7cd27017282db9e1d59d",
+      "size": 713
+    },
+    {
+      "path": "H4WK EYe/icons/enigma_white_active.svg",
+      "sha256": "9a6c1b3a556d372d09a2b45a20b4e30e74527abb99a1e506cf2c392bdc41e475",
+      "size": 416
+    },
+    {
+      "path": "H4WK EYe/icons/eye_black.svg",
+      "sha256": "21f5e8d2caf48fa05ab1c55e501016e37bd62e7959268e0d364bf80383d7b914",
+      "size": 548
+    },
+    {
+      "path": "H4WK EYe/icons/eye_chip.svg",
+      "sha256": "21f5e8d2caf48fa05ab1c55e501016e37bd62e7959268e0d364bf80383d7b914",
+      "size": 548
+    },
+    {
+      "path": "H4WK EYe/icons/eye_chip_active.svg",
+      "sha256": "77803ab1a33fe0597e13b80a0f5eeadb86c744341abd586a366b3fa9f6e3a514",
+      "size": 643
+    },
+    {
+      "path": "H4WK EYe/icons/eye_white.svg",
+      "sha256": "06c8203c55b9546783992ec107f3cede22815284acc1a1a6151c15bc30b3aa4a",
+      "size": 283
+    },
+    {
+      "path": "H4WK EYe/icons/eye_white_active.svg",
+      "sha256": "47c01d55643c064654973d70b56a4afd6e99aabfb2b2b45b91adbbcd5c4956bc",
+      "size": 283
+    },
+    {
+      "path": "H4WK EYe/icons/gamepad_black.svg",
+      "sha256": "7c9fa4113985360f5fa529d6e5d79a99d4b4f7cddeb75df5197ad77c6aa7beaa",
+      "size": 643
+    },
+    {
+      "path": "H4WK EYe/icons/gamepad_chip.svg",
+      "sha256": "7c9fa4113985360f5fa529d6e5d79a99d4b4f7cddeb75df5197ad77c6aa7beaa",
+      "size": 643
+    },
+    {
+      "path": "H4WK EYe/icons/gamepad_chip_active.svg",
+      "sha256": "e333ec7adbbb193816c4436618394ca65f894eb948825e6c3ae60a1b60c4efbf",
+      "size": 737
+    },
+    {
+      "path": "H4WK EYe/icons/gamepad_white.svg",
+      "sha256": "a5d5edca66ebd1b306b38f3077f9eb0c6abd9588dfe2152d28d56a07d792cd2a",
+      "size": 415
+    },
+    {
+      "path": "H4WK EYe/icons/gamepad_white_active.svg",
+      "sha256": "7b02748a898a4b41d5aed340f689cba717416e8456d65140d4935552cb2332b8",
+      "size": 341
+    },
+    {
+      "path": "H4WK EYe/icons/gear_black.svg",
+      "sha256": "89cc28e26d612c0b25e9f5b32acfc9a88075d469610c8833d7be6665b4439493",
+      "size": 560
+    },
+    {
+      "path": "H4WK EYe/icons/gear_chip.svg",
+      "sha256": "89cc28e26d612c0b25e9f5b32acfc9a88075d469610c8833d7be6665b4439493",
+      "size": 560
+    },
+    {
+      "path": "H4WK EYe/icons/gear_chip_active.svg",
+      "sha256": "914d0e32f794390246fd48906efd7c246f94acddbc0b36dd8bdabec6277363d4",
+      "size": 690
+    },
+    {
+      "path": "H4WK EYe/icons/gear_white.svg",
+      "sha256": "8fe686219ea6f9f106fb12808976318473c9b4c124a09d6dce04856c07f53ce6",
+      "size": 969
+    },
+    {
+      "path": "H4WK EYe/icons/gear_white_active.svg",
+      "sha256": "bd8e528af26837f38a0a3503fe84827a648b9caacbf7409ac2506139b1133853",
+      "size": 804
+    },
+    {
+      "path": "H4WK EYe/icons/home_black.svg",
+      "sha256": "f7f7087984b7b8c16fd57f56dc87c0777d3acaf7cc7805817e9d809429ecca6e",
+      "size": 694
+    },
+    {
+      "path": "H4WK EYe/icons/home_chip.svg",
+      "sha256": "f7f7087984b7b8c16fd57f56dc87c0777d3acaf7cc7805817e9d809429ecca6e",
+      "size": 694
+    },
+    {
+      "path": "H4WK EYe/icons/home_chip_active.svg",
+      "sha256": "215fc3f8d46d6503ef6093a0c5393b34cef8ebbd80166c99a112681f24d9689a",
+      "size": 788
+    },
+    {
+      "path": "H4WK EYe/icons/home_white.svg",
+      "sha256": "bfd3bfea0940b064f3ac645bf4af01be934cf1804c485fc3905347c614e4e397",
+      "size": 350
+    },
+    {
+      "path": "H4WK EYe/icons/home_white_active.svg",
+      "sha256": "7dbcc160615f187f515c41189d4541c1aaccdb39d4b5020ec22d3cb370ebc986",
+      "size": 296
+    },
+    {
+      "path": "H4WK EYe/icons/icon_bolt.png",
+      "sha256": "d858d60fc8c5084310fccbbb1b4b8b79990ea368262f79af190f4116d61d6b3c",
+      "size": 315
+    },
+    {
+      "path": "H4WK EYe/icons/icon_cpu.png",
+      "sha256": "bce44f8af9e8d2e03d6301f059fb2fdec56e5af68262a9aa2221d23b9898315e",
+      "size": 461
+    },
+    {
+      "path": "H4WK EYe/icons/icon_fps.png",
+      "sha256": "d6cabfc9e86c8ee2371dfbbd2116547e2c411fadeb8069423b7afb98115ced84",
+      "size": 370
+    },
+    {
+      "path": "H4WK EYe/icons/icon_gamepad_black_sidebar.svg",
+      "sha256": "dd4ef9a32e46f57175d8237c57566e6b735773b399cea42c2bdc5c64d437650a",
+      "size": 2235
+    },
+    {
+      "path": "H4WK EYe/icons/icon_gamepad_black_sidebar_white.svg",
+      "sha256": "d9e7e07abf8dec7684b861548e2df2095240b3c97d74bbb1ea5b3140c64f029f",
+      "size": 2250
+    },
+    {
+      "path": "H4WK EYe/icons/icon_gamepad_sidebar_white.svg",
+      "sha256": "d9e7e07abf8dec7684b861548e2df2095240b3c97d74bbb1ea5b3140c64f029f",
+      "size": 2250
+    },
+    {
+      "path": "H4WK EYe/icons/icon_hud.png",
+      "sha256": "c9d4816fef9ccd1774cd0c9ee06f00ab1905709cdc31b110265487902b115172",
+      "size": 403
+    },
+    {
+      "path": "H4WK EYe/icons/icon_mode.png",
+      "sha256": "e1d983ec2d2f3088e5eeedb77bea835fa15e1604201f7e8f64d4e49fe65f1042",
+      "size": 507
+    },
+    {
+      "path": "H4WK EYe/icons/icon_ram.png",
+      "sha256": "ad09e78eda462019242518ecbb6756cd14a40a3aa079d8d3c3957b8a494be379",
+      "size": 308
+    },
+    {
+      "path": "H4WK EYe/icons/icon_sync.png",
+      "sha256": "b370ae3a06b8a73b5c81326921bffa9e9ca84b92a8fa1f5a03d02823ce7ff634",
+      "size": 412
+    },
+    {
+      "path": "H4WK EYe/icons/inject_black.svg",
+      "sha256": "17ee391434203c01aa7bf3b792d0e7af032f057d16e6838a41163dc749f981b8",
+      "size": 662
+    },
+    {
+      "path": "H4WK EYe/icons/inject_chip.svg",
+      "sha256": "17ee391434203c01aa7bf3b792d0e7af032f057d16e6838a41163dc749f981b8",
+      "size": 662
+    },
+    {
+      "path": "H4WK EYe/icons/inject_chip_active.svg",
+      "sha256": "731f81586a3f71a9abd2598a4542abb739c08ebbe71c620dd4425eadbd515204",
+      "size": 755
+    },
+    {
+      "path": "H4WK EYe/icons/inject_white.svg",
+      "sha256": "3904231daca87f0dfe5b73ad72907382b24abefb3de792afafb829f97c375c98",
+      "size": 474
+    },
+    {
+      "path": "H4WK EYe/icons/inject_white_active.svg",
+      "sha256": "240095dbf367770f03cf024728d4090510f35121bd5de55e0518b6e74a455af3",
+      "size": 567
+    },
+    {
+      "path": "H4WK EYe/icons/install-apk-icon_black.svg",
+      "sha256": "7bc4fce60956690f2a765be74738c9da8b14c56df6821d6760247d22ecd03132",
+      "size": 1201
+    },
+    {
+      "path": "H4WK EYe/icons/install-apk-icon_white.svg",
+      "sha256": "98aab4e38e7a2c9c57f4d97d66534c2469fe96cf5de884bf0ada5add5c585551",
+      "size": 1216
+    },
+    {
+      "path": "H4WK EYe/icons/install_black.svg",
+      "sha256": "c2bc5c3a2920b9a5f67a6097d2f09510bc05bf2a6f6f4fec1a585088b5866e89",
+      "size": 449
+    },
+    {
+      "path": "H4WK EYe/icons/install_chip.svg",
+      "sha256": "c2bc5c3a2920b9a5f67a6097d2f09510bc05bf2a6f6f4fec1a585088b5866e89",
+      "size": 449
+    },
+    {
+      "path": "H4WK EYe/icons/install_chip_active.svg",
+      "sha256": "d2cf9fc04255554d5afdaf4a60f1904af0c6da2636c2141f5af216db2729e614",
+      "size": 577
+    },
+    {
+      "path": "H4WK EYe/icons/install_white.svg",
+      "sha256": "e2e05f97facb25d4142045391223540d239627824966631d39402ca107bf24f7",
+      "size": 276
+    },
+    {
+      "path": "H4WK EYe/icons/install_white_active.svg",
+      "sha256": "4f525c1429f16d956e29b7002792bfc0ba64761987a7d25c881a8eee4aa72ed8",
+      "size": 328
+    },
+    {
+      "path": "H4WK EYe/icons/menu_black.svg",
+      "sha256": "ce74b0a67e1d71f7853267fdfb3dc252626e5ec4d4b5ef769c9fe1053d14d5d9",
+      "size": 492
+    },
+    {
+      "path": "H4WK EYe/icons/menu_chip.svg",
+      "sha256": "ce74b0a67e1d71f7853267fdfb3dc252626e5ec4d4b5ef769c9fe1053d14d5d9",
+      "size": 492
+    },
+    {
+      "path": "H4WK EYe/icons/menu_chip_active.svg",
+      "sha256": "0e182b0fc1b87af6a59e256d8443be0f96752aed78551cd44d661f1659976bbf",
+      "size": 585
+    },
+    {
+      "path": "H4WK EYe/icons/menu_white.svg",
+      "sha256": "0cf43594309cc69184a8bd64a4965640227fbf3e7b108ea709228173656974c2",
+      "size": 302
+    },
+    {
+      "path": "H4WK EYe/icons/menu_white_active.svg",
+      "sha256": "9a76402334e906ebf2b0a84379363e2bdb9ce07896c56ff1211c1f1de3de2cbd",
+      "size": 312
+    },
+    {
+      "path": "H4WK EYe/icons/multi_apps_view_alt_black.svg",
+      "sha256": "15add7832e81934d42f03252fe79bc77b7cfa54948974e27a83a62cf57de7d8f",
+      "size": 1947
+    },
+    {
+      "path": "H4WK EYe/icons/multi_apps_view_alt_white.svg",
+      "sha256": "fa0ad8f759c8c4fefa150021cb7c05e86ea23ce45eb067165c824a9ae478e985",
+      "size": 1962
+    },
+    {
+      "path": "H4WK EYe/icons/multi_apps_view_black.svg",
+      "sha256": "56eaaa86fb416fff7a89ff9ac27414a7de1954b38366eea828b7d17890a5aefa",
+      "size": 1075
+    },
+    {
+      "path": "H4WK EYe/icons/multi_apps_view_outline_black.svg",
+      "sha256": "15add7832e81934d42f03252fe79bc77b7cfa54948974e27a83a62cf57de7d8f",
+      "size": 1947
+    },
+    {
+      "path": "H4WK EYe/icons/multi_apps_view_outline_white.svg",
+      "sha256": "fa0ad8f759c8c4fefa150021cb7c05e86ea23ce45eb067165c824a9ae478e985",
+      "size": 1962
+    },
+    {
+      "path": "H4WK EYe/icons/multi_apps_view_white.svg",
+      "sha256": "5f92785fc782929bd2fb98efb528dab3444eba292e3278ca900fbb41759f3426",
+      "size": 1090
+    },
+    {
+      "path": "H4WK EYe/icons/recent_black.svg",
+      "sha256": "a186d1e2af6dc82c678d9e6ea1b69d31d4061d99deb34318d9d6eb1c153b1ad4",
+      "size": 617
+    },
+    {
+      "path": "H4WK EYe/icons/recent_chip.svg",
+      "sha256": "a186d1e2af6dc82c678d9e6ea1b69d31d4061d99deb34318d9d6eb1c153b1ad4",
+      "size": 617
+    },
+    {
+      "path": "H4WK EYe/icons/recent_chip_active.svg",
+      "sha256": "fbf3d0bd8c8521e01d7625c8990d27912b0d8a8450a480307f1d97667c0caa1d",
+      "size": 711
+    },
+    {
+      "path": "H4WK EYe/icons/recent_white.svg",
+      "sha256": "016e185ec8eddf0885da180f9ae7643ff71a4229ebecff088898f7fb98075776",
+      "size": 309
+    },
+    {
+      "path": "H4WK EYe/icons/recent_white_active.svg",
+      "sha256": "58bd13198782a74486a348e94cafc19700144993332ade6460f50147ad221e6b",
+      "size": 330
+    },
+    {
+      "path": "H4WK EYe/icons/use_in_any_black.svg",
+      "sha256": "1379284b161c3ad8c9374b5127a95a177ff914d5059e73e5f13a59006b1ab060",
+      "size": 1659
+    },
+    {
+      "path": "H4WK EYe/icons/use_in_any_white.svg",
+      "sha256": "ee90adaf380c09852f0a213a48a83c428cde614fcedaf7984b6d3f09d65a2164",
+      "size": 1674
+    },
+    {
+      "path": "H4WK EYe/icons/vol_black.svg",
+      "sha256": "dd8e0fc09e336929a1d0449982a60d9452edaa6a8841ff64dc527a39e849bd2e",
+      "size": 552
+    },
+    {
+      "path": "H4WK EYe/icons/vol_chip.svg",
+      "sha256": "dd8e0fc09e336929a1d0449982a60d9452edaa6a8841ff64dc527a39e849bd2e",
+      "size": 552
+    },
+    {
+      "path": "H4WK EYe/icons/vol_chip_active.svg",
+      "sha256": "875d8de537a214550da6ad56c11cf71dce8ead9e2b941dd9834210f73503d9a7",
+      "size": 754
+    },
+    {
+      "path": "H4WK EYe/icons/vol_white.svg",
+      "sha256": "203871337bc7c5c46d20169d2a36ddfe5900ab922375307575d7a965fc87b8c8",
+      "size": 321
+    },
+    {
+      "path": "H4WK EYe/icons/vol_white_active.svg",
+      "sha256": "5e6ea978ae53fd6b2cc3925335f3bcb3aec4e24f11f602329ff8234afffb5f77",
+      "size": 336
+    },
+    {
+      "path": "H4WK EYe/icons28/Advanced.svg",
+      "sha256": "7ad3fc16fa005d94cb67095d2f7aa92ebf14fda6966d5e0d73bee25fc1f18174",
+      "size": 397
+    },
+    {
+      "path": "H4WK EYe/icons28/Back.svg",
+      "sha256": "999972a84077b162ce2c7d0ae4f1fbc73d63cd2e71875416030747a4eece2d52",
+      "size": 317
+    },
+    {
+      "path": "H4WK EYe/icons28/Check.svg",
+      "sha256": "63d730ae27782da6226f35fe98b4349dd14f6f657272f48908853aa8a8ff0eb4",
+      "size": 464
+    },
+    {
+      "path": "H4WK EYe/icons28/ChevronLeft.svg",
+      "sha256": "291e819b14a23be77b922cae0bd8569ec430478f06e5a726204ff5013072c046",
+      "size": 463
+    },
+    {
+      "path": "H4WK EYe/icons28/ChevronRight.svg",
+      "sha256": "821757034fba5c3d17eb8ddcd361358d90e80e7c336a17771d86a4faa53f24b1",
+      "size": 462
+    },
+    {
+      "path": "H4WK EYe/icons28/ChevronsLeft.svg",
+      "sha256": "d60bab6f1aa795f1f7879620e4e065890244afa8944fe8250483f08eb44768ed",
+      "size": 588
+    },
+    {
+      "path": "H4WK EYe/icons28/ChevronsRight.svg",
+      "sha256": "07b741fb83b6015f34ee265e04eb852fa97bf51f843b831361f00f7925328a57",
+      "size": 587
+    },
+    {
+      "path": "H4WK EYe/icons28/Close.svg",
+      "sha256": "20f5dde5c13315ca44372928d2639979b956961e59d444a3079620042e38f1fa",
+      "size": 192
+    },
+    {
+      "path": "H4WK EYe/icons28/Controls.svg",
+      "sha256": "481c27e42c149a4dd30f442bfb06ec0d77e2e90beea34e927eb63edd0181cdeb",
+      "size": 321
+    },
+    {
+      "path": "H4WK EYe/icons28/Credits.svg",
+      "sha256": "9ce461e42bf3b66f003a942fce52be919929338b17c04ed5ae6415d309ff53af",
+      "size": 332
+    },
+    {
+      "path": "H4WK EYe/icons28/Devices.svg",
+      "sha256": "320594bc49020e80320f369e62c0bfe2d59fee190e05b2dfcfc5af5c8a0e4e36",
+      "size": 446
+    },
+    {
+      "path": "H4WK EYe/icons28/Discord.svg",
+      "sha256": "e67a48676aa69f997f7d132d4f407f960b3fd0debb7299ff024edfaf724661d0",
+      "size": 1379
+    },
+    {
+      "path": "H4WK EYe/icons28/Display.svg",
+      "sha256": "d251beec5a58f0341272981d52bcf46ddbb614fffb3f6cb9e3b9dd0e9a5274d3",
+      "size": 284
+    },
+    {
+      "path": "H4WK EYe/icons28/Eco.svg",
+      "sha256": "393e225d9cc7d85339705ecd89c6f583f14d81a68befd81c63e0808a193df6bd",
+      "size": 382
+    },
+    {
+      "path": "H4WK EYe/icons28/Enigma.svg",
+      "sha256": "cb9ab00f96bea863e325bdd7fe32de57ee03a73989f11befd400009560ee312e",
+      "size": 618
+    },
+    {
+      "path": "H4WK EYe/icons28/Eye.svg",
+      "sha256": "982ed1557aa5edc539db4892b345cf67f9ccd92b097bd25f2c867e5123adb3bf",
+      "size": 325
+    },
+    {
+      "path": "H4WK EYe/icons28/Fullscreen.svg",
+      "sha256": "475a9db9e14189ea75fdfb3c8ad58bf3e11e81486091e11534e0a228525ac08c",
+      "size": 234
+    },
+    {
+      "path": "H4WK EYe/icons28/Game.svg",
+      "sha256": "b796b042e548fdc6be99604938a3fba4a5d9e03e2d3ba21b685b417ea4078222",
+      "size": 370
+    },
+    {
+      "path": "H4WK EYe/icons28/Gamepad.svg",
+      "sha256": "dca09ed944713c26fc03834ba812b44915990208e83b96703e41fff4400a5912",
+      "size": 652
+    },
+    {
+      "path": "H4WK EYe/icons28/Graphics.svg",
+      "sha256": "09a322505c2e2cd8cee542325936665ec22a584725307346d1af69c7784cc343",
+      "size": 355
+    },
+    {
+      "path": "H4WK EYe/icons28/Help.svg",
+      "sha256": "c5439e4bc1fa63cf3d6bcac4affd949eff21275a389548f3396182596edcb198",
+      "size": 592
+    },
+    {
+      "path": "H4WK EYe/icons28/Home.svg",
+      "sha256": "68b0d0a1e59da1559d2ac5731e555507f81c891c42aa1a9e893621aea9fe3bb4",
+      "size": 188
+    },
+    {
+      "path": "H4WK EYe/icons28/Info.svg",
+      "sha256": "8613d0dbb5aab283cc430a683d2774a58c5ac76533dddf39f25a36e7c12dabd9",
+      "size": 308
+    },
+    {
+      "path": "H4WK EYe/icons28/Inject.svg",
+      "sha256": "6ca57edc76e8d100550e3edc3af58157fdd7956a7b7f94820014ff76e584fc62",
+      "size": 727
+    },
+    {
+      "path": "H4WK EYe/icons28/Install.svg",
+      "sha256": "4a5d5c70013abf10a5adb53843d0b9ebb5b89bf53381349db9709e1c42c8e094",
+      "size": 391
+    },
+    {
+      "path": "H4WK EYe/icons28/Language.svg",
+      "sha256": "634f46fd1f8826e374c69a9e72d3f369246a003e676fbf4a1832da0687e6a199",
+      "size": 717
+    },
+    {
+      "path": "H4WK EYe/icons28/Location.svg",
+      "sha256": "757a895e29654217bb1043c4ad01337db0bc964582926e3ad955402032916f1c",
+      "size": 337
+    },
+    {
+      "path": "H4WK EYe/icons28/Macro.svg",
+      "sha256": "e3ebfd1aa9612f98b47ee35a741b47cbc66e98d05cc489434b3f879aad4265dd",
+      "size": 321
+    },
+    {
+      "path": "H4WK EYe/icons28/Maximize.svg",
+      "sha256": "96c7ec08ff7e05fde7234643daedba519d10c662e538176786c379a384edf6e2",
+      "size": 188
+    },
+    {
+      "path": "H4WK EYe/icons28/Media.svg",
+      "sha256": "c84348bbbe09c3512b5b676f281a20b82eed45021d78ad7e0a4b00f7150aee53",
+      "size": 322
+    },
+    {
+      "path": "H4WK EYe/icons28/Memory.svg",
+      "sha256": "588caf719a3219c37e987a34830ec2da8e31f69861bf6c502b44746d7be82005",
+      "size": 353
+    },
+    {
+      "path": "H4WK EYe/icons28/Menu.svg",
+      "sha256": "50aab9132d1f4c846d6ce1af8c1940f5cff7f01bc303a48659daef8a9b3ae191",
+      "size": 639
+    },
+    {
+      "path": "H4WK EYe/icons28/Minimize.svg",
+      "sha256": "eb24f9811c26b80428f65aa450bace55e5e1b51fcdd782dae82b65e54b5aa564",
+      "size": 180
+    },
+    {
+      "path": "H4WK EYe/icons28/Mouse.svg",
+      "sha256": "e6eac56e1d7aaa25d729797fe009ed89140b5c61294f1a632df1cb48d8a9bace",
+      "size": 535
+    },
+    {
+      "path": "H4WK EYe/icons28/Optimizations.svg",
+      "sha256": "2dfc4a1cf1bd29b55f1a42ac76bac75aa42117e3d4a431ee461ea6859d1e6d93",
+      "size": 204
+    },
+    {
+      "path": "H4WK EYe/icons28/Overlays.svg",
+      "sha256": "5875ff292c16e77c4e0239d77ee4347734d1e60ec0ded82d93bba049eed7c62a",
+      "size": 583
+    },
+    {
+      "path": "H4WK EYe/icons28/Panel.svg",
+      "sha256": "f56eca1e3cc83a2af2bc39a506548098d72992328e260d12940189e726d068b0",
+      "size": 263
+    },
+    {
+      "path": "H4WK EYe/icons28/Performance.svg",
+      "sha256": "59fdea305a2247bc1417646f0b9a4bdcffd16802fcea18625272271e4ec6b6ad",
+      "size": 317
+    },
+    {
+      "path": "H4WK EYe/icons28/Phone.svg",
+      "sha256": "1bff772fbeb832d9834c27c0674baa6e758dd852fc39ba6dfc21a8a22fe5356b",
+      "size": 236
+    },
+    {
+      "path": "H4WK EYe/icons28/Plus.svg",
+      "sha256": "44a8ccd9668ba1500b9a0a908d1add7b6c3760edd080334357bbacfc5d993bda",
+      "size": 441
+    },
+    {
+      "path": "H4WK EYe/icons28/Power.svg",
+      "sha256": "8e4267d52b2c1e612c0b59d12cca11cacdeb77fc39ab6f2413f5d47b62d56d3c",
+      "size": 549
+    },
+    {
+      "path": "H4WK EYe/icons28/Preferences.svg",
+      "sha256": "b82023174f18c82d3a7b5d4a4be991e767d130f1a5db8d0901ee5ac7a7625b3b",
+      "size": 584
+    },
+    {
+      "path": "H4WK EYe/icons28/Prefs.svg",
+      "sha256": "b82023174f18c82d3a7b5d4a4be991e767d130f1a5db8d0901ee5ac7a7625b3b",
+      "size": 584
+    },
+    {
+      "path": "H4WK EYe/icons28/Recent.svg",
+      "sha256": "17bcd8e61bac56186c677f0f5f81237fd9329fc938a7242d5214dd055addda36",
+      "size": 464
+    },
+    {
+      "path": "H4WK EYe/icons28/Record.svg",
+      "sha256": "3682b96e441d3587920c411d850cc70a2842fd3902f56dddc50f54962ec30f6c",
+      "size": 216
+    },
+    {
+      "path": "H4WK EYe/icons28/Reg.svg",
+      "sha256": "ce3105fdaa5070f5a9aee871ccebf5a803c6d7c10621c919ef70f23e6deeeacb",
+      "size": 760
+    },
+    {
+      "path": "H4WK EYe/icons28/Restore.svg",
+      "sha256": "b013382da6adc6758e8bc2cda80227023532c57c3594ac5c86602a250e0270bd",
+      "size": 306
+    },
+    {
+      "path": "H4WK EYe/icons28/Rotate.svg",
+      "sha256": "468737fb10a9f370aace5fb81d4e32a01a9587958d0139cb3acdc7f31481f231",
+      "size": 277
+    },
+    {
+      "path": "H4WK EYe/icons28/Screenshot.svg",
+      "sha256": "91d639512149985352d1d881f770bf32b226940fe3343408de4371be234b2439",
+      "size": 415
+    },
+    {
+      "path": "H4WK EYe/icons28/Search.svg",
+      "sha256": "04b7ce70c093e83cfdc23807c8a0ae96ef937995e6248fb092a25a1df679e223",
+      "size": 522
+    },
+    {
+      "path": "H4WK EYe/icons28/Settings.svg",
+      "sha256": "7e3cdc1ac50b1860101a2a800dc9258a76b439dd9af480c02712c0426bc10e59",
+      "size": 574
+    },
+    {
+      "path": "H4WK EYe/icons28/Shake.svg",
+      "sha256": "15f11f105f03b4c1f76b12acbb183e0027d88cac617674d6171684cb4ad01ace",
+      "size": 309
+    },
+    {
+      "path": "H4WK EYe/icons28/Shortcuts.svg",
+      "sha256": "8d2b8827909e88af47a92ddf7b6ef3e0f90859af353c0412ce6ac05cd8916338",
+      "size": 338
+    },
+    {
+      "path": "H4WK EYe/icons28/Sync.svg",
+      "sha256": "f07b970f6d7d7718786bf789f8db3ecfd345a82553fc1ac64dc18a495351acef",
+      "size": 366
+    },
+    {
+      "path": "H4WK EYe/icons28/Tools.svg",
+      "sha256": "26bf4ffa24201cf588b901a9ff687b4ff9f193d46b4784540975cfca03cf7904",
+      "size": 348
+    },
+    {
+      "path": "H4WK EYe/icons28/TopbarIcon.svg",
+      "sha256": "bd43ac7283f6cb9f9da37f81cb0b14c709e6b986c78ab6cb6b5cbba735cf3f1e",
+      "size": 377
+    },
+    {
+      "path": "H4WK EYe/icons28/Userdata.svg",
+      "sha256": "d71a11ffba7cb8aab8615ad01b9e3ab7e74e8455ff4fe6b2bf63ad8a2b0089b5",
+      "size": 305
+    },
+    {
+      "path": "H4WK EYe/icons28/Volume.svg",
+      "sha256": "1609373f79737374f751f961ea8233b6c1da508dee82f7f65c031c72b89d2ebb",
+      "size": 397
+    },
+    {
+      "path": "H4WK EYe/icons28/YouTube.svg",
+      "sha256": "b58ada0d81ba8f8ae97bf5cd3ee2931dc98ab0c6ffd63b3f9e3620a5bcf7be12",
+      "size": 464
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Advanced.svg",
+      "sha256": "edcabeb679419108c768c0ba0a66335a5cdd8204df9f2a0bbae9c75c171f1a65",
+      "size": 270
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Back.svg",
+      "sha256": "5adac9d8cef5b75dc92b2a0744b707e7bb5a129f0f5dc557e7d17686ce96fa64",
+      "size": 270
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Check.svg",
+      "sha256": "258e713ec291aedebd7b3b1cf7184e968c9eab7bbe2e57dae66ff8db9a9c4e41",
+      "size": 227
+    },
+    {
+      "path": "H4WK EYe/icons_dark/ChevronsLeft.svg",
+      "sha256": "fc4e584a48003c12fc8b8b52375c70d8002144fd74b664d7bd2edb2155b249a1",
+      "size": 269
+    },
+    {
+      "path": "H4WK EYe/icons_dark/ChevronsRight.svg",
+      "sha256": "f792a5047896aec9f3a1f2c55197dfbc189bba50cdd52819c4fb1a0ad7e367c9",
+      "size": 268
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Close.svg",
+      "sha256": "fc0c5cd53943984e8387bf65aecb36cb292a2d241dbf062370d9b851b581beeb",
+      "size": 270
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Controls.svg",
+      "sha256": "254a586b10d7d70565d7aba9c5ae3d7b2563d4753b51f21ae9639858e258cdc9",
+      "size": 341
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Credits.svg",
+      "sha256": "e5c22185fcdca178a1215d32e744d2138116cb1ee91999635f4f6bb75c4bb21d",
+      "size": 340
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Devices.svg",
+      "sha256": "aa32a51bf449572a5bf3f938e3f6cf8b5c09e48b20448f253075ab8c26bd75d2",
+      "size": 331
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Display.svg",
+      "sha256": "ce694f23e520883c7baafbb552068569f28e10729e25f34e9ada441acbee67dc",
+      "size": 326
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Eco.svg",
+      "sha256": "3ae1882bd1c0b979a37f69d045c411dbf8c07d406db777491c86cfa71f4781b4",
+      "size": 348
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Enigma.svg",
+      "sha256": "f890ee28bbfa59356cf99e1159163d77f79e0230ce722edd7f43bc3516c16142",
+      "size": 384
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Eye.svg",
+      "sha256": "3f93626d68054b6589d42bdfdd38eb3714e41e4828623dda9d1fdd6ec2ed8745",
+      "size": 283
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Fullscreen.svg",
+      "sha256": "e58613352ab6232f1661806920ac95e45c5a5f6e5d3b8738e6e80c2113b448eb",
+      "size": 242
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Game.svg",
+      "sha256": "f42add7bf19d9a271019d69744e79b0c2127415182de19b8b6d0aace4215ab49",
+      "size": 436
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Gamepad.svg",
+      "sha256": "645d13bf0abbaec9edbd85afd27219e06d9fb2c367cac1ce5fc7e934bead482c",
+      "size": 560
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Graphics.svg",
+      "sha256": "9610e0911e96fe4fc502fc5fa921a4edc58be3592dd4ebb755dcbf2511cf01b9",
+      "size": 393
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Help.svg",
+      "sha256": "5ffab00cace0232d831b3c1e37984fa7ad97dfd231fd9cf437b987c2469ae902",
+      "size": 322
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Home.svg",
+      "sha256": "e2f5ff310a6d77d808cb1bade08b6bf10c22fc41baa0ebe08471cf8cf22c1ffc",
+      "size": 296
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Info.svg",
+      "sha256": "7b2ef598719da9f0b3453687019bdc1fc0c46263fb51cea17a3c4feed8c5b735",
+      "size": 311
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Inject.svg",
+      "sha256": "e59d7cbfce01a6ee96fe28933f96cbf2e6f57c97f167d0faef99d1b4416a267d",
+      "size": 389
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Install.svg",
+      "sha256": "1ded49134d33cec67e772b676ef632a4bb10ae1f3af2182db0131b2d02b0304f",
+      "size": 328
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Language.svg",
+      "sha256": "5ad30c729b210ec69453adeeba1fcfc00ad28721557993f6f38aad388b9a40d9",
+      "size": 717
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Location.svg",
+      "sha256": "cca602b2b3794ba44759ef4cfbd13917b5ad7202312d6c1ab67fe8bf23e1b1e1",
+      "size": 285
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Macro.svg",
+      "sha256": "b194673bf9f14c949b3b6136bdb604ad8a14d0ad2694a5771f5ecf4d6cc3fb8b",
+      "size": 426
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Maximize.svg",
+      "sha256": "6941c26563953f6a5316332d4abf127e944a1b551dc7ba41099d8f2d1aa548a7",
+      "size": 241
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Media.svg",
+      "sha256": "2ab5c82fc963acdde71b2b696e17b33a8bd53b2f8afa6223d57928a93614c60e",
+      "size": 531
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Memory.svg",
+      "sha256": "d43d3efbc5d287c9d72d5424b8395e7152609ae7b665473e2624ee3953f3c930",
+      "size": 366
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Menu.svg",
+      "sha256": "2f4c51dbcf3c453940ab7d93c245a60435bedbb39a9e527435ef1ca6150f6d26",
+      "size": 312
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Minimize.svg",
+      "sha256": "f3f3b1d620dde1bc0024d9127e9c54cdcf8374a5784d1c7f5c577061ab4cc5ec",
+      "size": 230
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Optimizations.svg",
+      "sha256": "2445cb3bb6867a32867b6917a322476dc2f72ac31c067bd732f3774ff8e09182",
+      "size": 250
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Overlays.svg",
+      "sha256": "4d7e279b979dfc77920fc6c5e902e5f25d584da0966064948a6769070bb50a34",
+      "size": 428
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Panel.svg",
+      "sha256": "7a7b3ef7a50ebca94110f395bb2e45b8b447eb1225220ff5af58175bb74b2d2c",
+      "size": 263
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Performance.svg",
+      "sha256": "35ec62e576b0793ab5a81927180ca0819072a13487b01b2456da7c74cdc61842",
+      "size": 295
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Phone.svg",
+      "sha256": "f9d79cc5993e67e3f9bffb2bef9cf8b34f800450121781896e97c892d89c8a80",
+      "size": 489
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Plus.svg",
+      "sha256": "18ba45119205aa85fc99bd43e2429482ea95c7e798ae75c9ba25640c5e7050f2",
+      "size": 272
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Power.svg",
+      "sha256": "bcbcc6334640744964f655a273431a6f376cbca1a3cec3f7d70e425a38d9c418",
+      "size": 257
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Prefs.svg",
+      "sha256": "4559f36befa31d32bfd688e64cd72118e2a40aac97c8dfda5ca513278f6abb77",
+      "size": 563
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Recent.svg",
+      "sha256": "bf29ff594999f081f014d99179b5b22c48d1e0225a4248fa1431b6ec6ef2c561",
+      "size": 330
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Record.svg",
+      "sha256": "82f3faefe42aebbaec74042a5a0e64c5d81e74b120bb21703a3fb2364e04786a",
+      "size": 289
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Reg.svg",
+      "sha256": "bda2a82044fd9cc9e2fbb0694c8094fa350fc8dded24d348c46aa9f5d8998340",
+      "size": 426
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Restore.svg",
+      "sha256": "3a85e95721ccdab2f3ed1ab63d03a6da09ab17bb4384d301b9e22ec891f49e15",
+      "size": 333
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Rotate.svg",
+      "sha256": "0d925ff55c4cf4f0fa9e2b3ae72f3604ab7b64769b7cbf6c19882a93db6f7c4b",
+      "size": 292
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Screenshot.svg",
+      "sha256": "995ecd6e187b9be0478c585cd0a476d570f2d62bef510c14b1027032396093e4",
+      "size": 375
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Search.svg",
+      "sha256": "a4fb91f03859cc1422aa083c16dbe892f85e501de6adb08fe2bff57ba75b08f4",
+      "size": 272
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Settings.svg",
+      "sha256": "c4675abcd67ed66910cda8f43e5a7d078a846c76e98a47f8215d724be4a7d1f9",
+      "size": 804
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Shake.svg",
+      "sha256": "cc52f92e096f0c0359e3c905b79e506c122a28e0a1e5edaef313c457f7135cf1",
+      "size": 409
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Shortcuts.svg",
+      "sha256": "a65e80e7672d603fb0d0c0d1b4f9ee235b1e692482c848bf04b0720aac077bf9",
+      "size": 319
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Sync.svg",
+      "sha256": "c177e3e678f3f4b0a92542ac712e6c85bea4e3b2c37ce93fdca93e6eb439f9dd",
+      "size": 399
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Tools.svg",
+      "sha256": "7733d897d83bb4ce770acebd37c45a213b68ef9e2d4ac5a685ac5ce5fc3f7823",
+      "size": 533
+    },
+    {
+      "path": "H4WK EYe/icons_dark/TopbarIcon.svg",
+      "sha256": "15698d5e4f2e090399f4bcbeceb12d708ea8d5b36972a4d932ec4285b34f939b",
+      "size": 377
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Userdata.svg",
+      "sha256": "abcfa01c610e5ebed8b6eb03d1c16f58395c53c285b19b7fb84b0b84a3e7c7b4",
+      "size": 373
+    },
+    {
+      "path": "H4WK EYe/icons_dark/Volume.svg",
+      "sha256": "00593ad124ecfa49e241b59acea6a888ed8fc4a5609bbeb4de93ebf55346b558",
+      "size": 336
+    },
+    {
+      "path": "H4WK EYe/icons_png/back_black.png",
+      "sha256": "8f25d0448533b508afe610aa99fdebd68cdd8982c6a8ed49c5a6acd374a7a1aa",
+      "size": 448
+    },
+    {
+      "path": "H4WK EYe/icons_png/back_chip.png",
+      "sha256": "91436a2f57c9fd06eefd6aef73504bc869eb991070d6c8d59d01f2b76f239582",
+      "size": 2844
+    },
+    {
+      "path": "H4WK EYe/icons_png/back_white.png",
+      "sha256": "edb4992f809fdaf115b45322bffe79bb394e4c9202f5cdf0e3dedcd90593eae9",
+      "size": 481
+    },
+    {
+      "path": "H4WK EYe/icons_png/enigma_black.png",
+      "sha256": "6204a6a26f95a2a1b138086569aa320f1ede3bbdea6e50b8c7e4bffb79ba1281",
+      "size": 1859
+    },
+    {
+      "path": "H4WK EYe/icons_png/enigma_chip.png",
+      "sha256": "1a6cd3799c200e1975f7cc541484599396726339a9dcc936a6701d1d779563c1",
+      "size": 5257
+    },
+    {
+      "path": "H4WK EYe/icons_png/enigma_white.png",
+      "sha256": "10d6fd819b3873504c311a79d5191e11375ac6a0983c331bdcd6bfb0693836c2",
+      "size": 1998
+    },
+    {
+      "path": "H4WK EYe/icons_png/eye_black.png",
+      "sha256": "6408577b5b64027b46b2c9603ad04007c8966e101f422846c6527d5995909879",
+      "size": 1647
+    },
+    {
+      "path": "H4WK EYe/icons_png/eye_chip.png",
+      "sha256": "396a7dd5c19e3aac6b23e2abb19d99d480ef69a30a7b8a5103ea3e73f836e59f",
+      "size": 6093
+    },
+    {
+      "path": "H4WK EYe/icons_png/eye_white.png",
+      "sha256": "55a72c9092db821e76a0b6caf57b0db54cb6876ed459214cccb32cc0c9bd6af4",
+      "size": 1793
+    },
+    {
+      "path": "H4WK EYe/icons_png/gamepad_black.png",
+      "sha256": "ea29d97d4442d4f2bec33090f3a3ebabe94d9657ed3a6e36b187328a450c699d",
+      "size": 1400
+    },
+    {
+      "path": "H4WK EYe/icons_png/gamepad_chip.png",
+      "sha256": "a06e43c68872ead368bbd2b0e77b4c43db03276aac1f218fa26921f5bc63b1e9",
+      "size": 4853
+    },
+    {
+      "path": "H4WK EYe/icons_png/gamepad_white.png",
+      "sha256": "975fdcfdd28d359d27300a9ec05f27c358b82606b97dfd084da21a4a304a9aad",
+      "size": 1590
+    },
+    {
+      "path": "H4WK EYe/icons_png/gear_black.png",
+      "sha256": "b77404da0cf9572481122e0adb21c684df23c6b0c00373af0e0127fd07cbdedc",
+      "size": 1215
+    },
+    {
+      "path": "H4WK EYe/icons_png/gear_chip.png",
+      "sha256": "4810c459c9e094ee9db001a095affeae6d9035c233ef833323cb0d4bbba2aa57",
+      "size": 4816
+    },
+    {
+      "path": "H4WK EYe/icons_png/gear_white.png",
+      "sha256": "990511d1e0435bc4c39e8392bc22f02e6ed02e0b4db6e83136719b3e25e35c44",
+      "size": 1392
+    },
+    {
+      "path": "H4WK EYe/icons_png/home_black.png",
+      "sha256": "8fe11b62aad8bb18b54ac6014dcf46831cc7f04de51fe6d2fdf45ebdddaa3a65",
+      "size": 1358
+    },
+    {
+      "path": "H4WK EYe/icons_png/home_chip.png",
+      "sha256": "e5cbd4ad8e64789870674adf08f0035660a34da5f3b0c115204f762b72c4abd3",
+      "size": 3909
+    },
+    {
+      "path": "H4WK EYe/icons_png/home_white.png",
+      "sha256": "e4e633d09041c9e1303edfd45b099defe4af369abe8db9d5910ee83d1132f49e",
+      "size": 1490
+    },
+    {
+      "path": "H4WK EYe/icons_png/inject_black.png",
+      "sha256": "10481981e4d5b81b612984e7824d78d820d836fcd83c145f99ab3f7d1ba4e79a",
+      "size": 1851
+    },
+    {
+      "path": "H4WK EYe/icons_png/inject_chip.png",
+      "sha256": "7db83a9aad7e705a04427e2e92fb638f2dd5c38614228f201e65b683924c3d5e",
+      "size": 5595
+    },
+    {
+      "path": "H4WK EYe/icons_png/inject_white.png",
+      "sha256": "c0024c2ee8e3839fcea7c1c3e2ab31e597c2af3c9f0242063bea12d07e8ad474",
+      "size": 2053
+    },
+    {
+      "path": "H4WK EYe/icons_png/install_black.png",
+      "sha256": "8cf596dbb7ba2ead29accc06acbfa75310c45277549c39dfed4d7dfb19294086",
+      "size": 591
+    },
+    {
+      "path": "H4WK EYe/icons_png/install_chip.png",
+      "sha256": "eb50a93cc053c3e4972393af812377885e1017b7ee27cc289388c052b20253ff",
+      "size": 2928
+    },
+    {
+      "path": "H4WK EYe/icons_png/install_white.png",
+      "sha256": "14ed1ad02df3a89819544f9b32303325b7a95083d551c23a50822cbf0ef7fefa",
+      "size": 618
+    },
+    {
+      "path": "H4WK EYe/icons_png/menu_black.png",
+      "sha256": "d696e1264fd0c3eceaa6c55b4c6942bf122f34a5522ee0f1575e0a11cf1e59d2",
+      "size": 303
+    },
+    {
+      "path": "H4WK EYe/icons_png/menu_chip.png",
+      "sha256": "ff5a925c8b7660514f5ae2e5b56ee607f836a90a34705b5c4482f8cc128e0eca",
+      "size": 2586
+    },
+    {
+      "path": "H4WK EYe/icons_png/menu_white.png",
+      "sha256": "c8514ba523616b0be0bced2fb8b4b39d17c261ba5b68010406f33ecdd0ed4ea1",
+      "size": 329
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_a_black.png",
+      "sha256": "de85cf0d9af0c5706b90708e8daecfd93d271dcf925b5c230f628ad33a6097f2",
+      "size": 745
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_a_white.png",
+      "sha256": "8c80fd5bc4f49a760164f3ec7dc43da69d34c132f737dc33941ded1f543b39b2",
+      "size": 783
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_b_black.png",
+      "sha256": "f5ccc80ffca20ef373fffddc1a3836e82aed3c87872f0610a36334219ebc98cc",
+      "size": 955
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_b_white.png",
+      "sha256": "0d402cb0972a7182f4e63e21358efcaef6c8d35b96f1bd24e0d53360b1b85bb7",
+      "size": 1112
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_black.png",
+      "sha256": "c232a0b7cd99cffa4e6af04c1e83de7f71fcbc51d07a3404ef6879e9699e6b9e",
+      "size": 893
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_chip.png",
+      "sha256": "49e021ebc939a8b71769c4f153bc18f5ed7145b2e44e2630c0e4ede11b9ca146",
+      "size": 3541
+    },
+    {
+      "path": "H4WK EYe/icons_png/recent_white.png",
+      "sha256": "753f63d865e0320ecbd80e1378c41b41229c8f9108a33ca6d11d418b2ec36f53",
+      "size": 955
+    },
+    {
+      "path": "H4WK EYe/icons_png/vol_black.png",
+      "sha256": "6b76b92907a0a3e57a3d2c5abf54d1fba2136c489c1c5a31b546d97c657dbf57",
+      "size": 1097
+    },
+    {
+      "path": "H4WK EYe/icons_png/vol_chip.png",
+      "sha256": "1832038f9f2475b24a96d94d4b4a90a3956b7fdbb22ccda3acbb4be3fba0e2d1",
+      "size": 4299
+    },
+    {
+      "path": "H4WK EYe/icons_png/vol_white.png",
+      "sha256": "f1ea328a6029bdf408a3fa6cca61afa2b9d6e1d28c2861fcd3059ce2152af8d4",
+      "size": 1274
+    },
+    {
+      "path": "H4WK EYe/profile.png",
+      "sha256": "c6e2b1917ea04b9fe644d904a615dde047651a505820c89b126a8b45218084f9",
+      "size": 1024589
+    },
+    {
+      "path": "H4WK EYe/state/HawkCredits.qml",
+      "sha256": "ba5b7780a73cdd10838c971e2ef23d522a88f83c06786f24ed79e3e33245f2b8",
+      "size": 41396
+    },
+    {
+      "path": "H4WK EYe/wallpaper_blur.png",
+      "sha256": "0bb2a37f91aefff3e2f13ef60023075634ffbcd3ca8355c64979d58d5474e866",
+      "size": 467058
+    }
+  ]
+}
