@@ -1,4 +1,4 @@
-<img src="H4WK_EYe.png" width="700" alt="H4WK EYe">
+<img src="h4WK_EYe_ghidra.png" width="700" alt="H4WK EYe">
 
 # H4WK EYe
 
@@ -6,15 +6,15 @@ An Android emulator for Windows, built for competitive mobile shooters.
 
 It runs Android on your PC with the performance work already done. The frame
 cap goes to 240 with an on-screen counter, rendering runs on Vulkan, and the
-memory settings are set up for long sessions rather than short demos. Install
-it, pick a version of Android, and play.
+memory settings are tuned for long sessions. Install it, pick a version of
+Android, and play.
 
 ## Download
 
-Grab the latest setup from [Releases](../../releases/latest).
+Get the latest setup from [Releases](../../releases/latest). Extract the
+archive, then run `BlueStacksInstaller.exe` and choose an install folder.
 
-It is a single installer. Run it, choose a folder, and you are done. Windows 10
-64-bit or newer, plus a GPU with Vulkan support.
+Windows 10 64-bit or newer, plus a GPU with Vulkan support.
 
 ## Android versions
 
@@ -41,13 +41,14 @@ your build.
 
 ## Credits
 
-Made by Blaze-X, with Romulus. The full list lives on the emulator's Credits
-page, and it is driven by [special_thanks.json](special_thanks.json) in this
-repository, so the list can change without shipping a new build.
+Made by [Blaze-X](https://github.com/blaze0089), with Romulus. The full list
+lives on the emulator's Credits page and is driven by
+[special_thanks.json](special_thanks.json) in this repository, so it can change
+without shipping a new build.
 
 ## Support
 
-- Discord: [discord.gg/PzKAG83V7T](https://discord.gg/PzKAG83V7T)
+Discord: [discord.gg/PzKAG83V7T](https://discord.gg/PzKAG83V7T)
 
 ## License
 
