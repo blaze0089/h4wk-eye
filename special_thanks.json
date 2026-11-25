@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "updated": "2026-11-25",
+  "_readme": "Edit this file on GitHub to change what the emulator shows. No rebuild needed.",
+  "links": {
+    "romulus_discord": "https://dsc.gg/romulus",
+    "romulus_youtube": "https://youtube.com/@romulus_ff",
+    "blazex_discord": "https://discord.gg/PzKAG83V7T",
+    "blazex_github": "https://github.com/blaze0089",
+    "join": "https://dsc.gg/romulus"
+  },
+  "thanks": [
+    { "name": "Romulus", "note": "YouTube - @romulus_ff", "url": "https://youtube.com/@romulus_ff" },
+    { "name": "Blaze-X", "note": "Founder - GitHub", "url": "https://github.com/blaze0089" }
+  ]
+}
