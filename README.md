@@ -2,21 +2,22 @@
 
 # H4WK EYe
 
-An Android emulator for Windows, built for competitive mobile shooters.
+An Android emulator for Windows, purpose-built for competitive mobile shooters.
 
-It runs Android on your PC with the performance work already done. The frame
-cap goes to 240 with an on-screen counter, rendering runs on Vulkan, and the
-memory settings are tuned for long sessions. Install it, pick a version of
-Android, and play.
+H4WK EYe is not a stock emulator with a settings preset on top. The performance
+work is done at the binary and DLL level, so the frame pacing, the input path,
+and the render path are modified rather than merely configured. Install it, pick
+a version of Android, and play.
 
 ## Download
 
-Get the latest setup from [Releases](../../releases/latest). Extract the
-archive, then run `Install H4WK EYe.cmd` and approve the administrator prompt.
-It stages the engine images and starts the installer, where you choose an
-install folder and the Android version.
+Get the latest setup from [Releases](../../releases/latest). Extract the archive,
+keep the files together, then run `Install H4WK EYe.cmd` and approve the
+administrator prompt. It stages the engine images and starts the installer,
+where you choose an install folder and the Android version.
 
-Windows 10 64-bit or newer, plus a GPU with Vulkan support.
+Windows 10 64-bit or newer, plus a GPU with Vulkan support. Setup does not need
+an internet connection - both engine images are bundled with the installer.
 
 ## Android versions
 
@@ -27,26 +28,36 @@ The installer lets you choose during setup:
 
 ## Features
 
-- 240 FPS cap with a live FPS HUD
-- Vulkan renderer with software ASTC decoding
-- Settings panel rebuilt for high-DPI displays
-- Key mapping, macros, and native gamepad mode
-- One-tap APK install from the sidebar
-- In-game overlay with performance readouts
-- Bundled launcher and wallpaper
+### Performance
+- Deep binary-level and DLL-level performance patches, not a settings preset.
+- Smoothness pushed to the maximum, with the frame cap raised to 240 and a live
+  FPS HUD.
+- Vulkan rendering with software ASTC decoding.
+
+### Aim and input
+- Dedicated X and Y mouse sensitivity adjuster, with an MSI 4 sensitivity port.
+- Aim shake and jitter corrected, and the auto sensitivity-high problem fixed.
+- Stable aim holds up under sustained tracking.
+
+### Tools (in-game overlay and sidebar)
+- DLL injection and loader.
+- Automatic registry applier: registry changes take effect without a restart.
+- Enigma: a graphics, colour, and visual overhaul.
+- Performance overlays and readouts.
+- Key mapping, macros, and native gamepad mode.
+- One-tap APK install from the sidebar.
+- Bundled home screen and wallpaper.
 
 ## Updates
 
-Open the Credits page in the emulator and press "Check for updates". It reads
-the manifest in this repository and downloads only the files that changed since
-your build.
+New versions are published under [Releases](../../releases/latest). Download the
+new setup and run it over your existing install.
 
 ## Credits
 
-Made by [Blaze-X](https://github.com/blaze0089), with Romulus. The full list
-lives on the emulator's Credits page and is driven by
-[special_thanks.json](special_thanks.json) in this repository, so it can change
-without shipping a new build.
+Developed by Blaze-X and Romulus. The full list lives on the emulator's Credits
+page and is driven by [special_thanks.json](special_thanks.json), so names can be
+added or removed without shipping a new build.
 
 ## Support
 
