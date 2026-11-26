@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 36' width='220' height='36'>
+  <defs>
+    <linearGradient id='notchGrad' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#181C2E' stop-opacity='0.78'/>
+      <stop offset='100%' stop-color='#0B0E1B' stop-opacity='0.90'/>
+    </linearGradient>
+    <linearGradient id='strokeGrad' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#FFFFFF' stop-opacity='0.18'/>
+      <stop offset='100%' stop-color='#FFFFFF' stop-opacity='0.42'/>
+    </linearGradient>
+  </defs>
+  <path d='M 0 0 L 220 0 L 194 28 Q 188 36 178 36 L 42 36 Q 32 36 26 28 Z'
+        fill='url(#notchGrad)'
+        stroke='url(#strokeGrad)'
+        stroke-width='1.2'
+        stroke-linejoin='round'/>
+</svg>
