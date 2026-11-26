@@ -32,7 +32,6 @@ The installer lets you choose during setup:
 - Deep binary-level and DLL-level performance patches, not a settings preset.
 - Smoothness pushed to the maximum, with the frame cap raised to 240 and a live
   FPS HUD.
-- Vulkan rendering with software ASTC decoding.
 
 ### Aim and input
 - Dedicated X and Y mouse sensitivity adjuster, with an MSI 4 sensitivity port.
